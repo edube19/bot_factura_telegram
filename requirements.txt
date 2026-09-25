@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+gspread
+python-dotenv
+google-genai
+pydantic
