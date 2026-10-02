@@ -1,13 +1,13 @@
 {
   "type": "service_account",
   "project_id": "bot-factura",
-  "private_key_id": "ed44234c5ff7a8eb6ef255b3ce66aaf13a0c3292",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCv9VCYh26AqcgX\nKrk0kb8ZFSiflR4XqPmPLgnLs++WM3vbsumW+HwJJcG8zLPW7sS2JpElVjXhda0p\nMJztqtVcJGexzWw0S7cC3K+6OnKsQQVBtTdg4UeWrAFAavW07zpbrNvLGVtMkVXp\nkqYsbXkNhdDce3EO1vsbYh1dz6lDshaMtnzx2vGWHWod2PZWqBbgBe5/nBYHdU1r\n1NULiduX6SrgOJ3xJME9J2blf/vzeeTZyaufhz0QqgfQCg/jWz4xGSv/YKwB0ROf\nhzVRxkQPbLNrYdwF8PTMe6M1t++EUgDC8LT5ZhjOXYN6Rz6tQhdBrHbqx5Y8k/0B\n8OlWKxy7AgMBAAECggEANnjStQ2EK4ej/mwG/tu51amDtHeE4903ONiPRsUTACQ7\nDUYDY23UdD6AjhKu//RV6G/jEjRwpLX5390BT+BJgedxRI1sGHpyEww/yH6snl/Y\noUFY/gBv2ZixIICcRSGkJtpKBsN4TKlXd+Ii2HEhfwq0oHUEiIwMG6uRnMebRm24\n14pFIUTJGMPFYLt1jvON91DbtZZWwleMG1+iRIZAPGbQs66xUbcGDuSxpLEAG9Tk\n+L/qEqVMuEKIdFxuXAB0toMkumkSTYbNeDNCXKaSUIndB53Nc7o/uXSBVa4aRryR\nPIvgRc6VTNi+KwQ7f6lpYluyJYuJYWzPX/FXGomMzQKBgQDqaGU6g74oFPK0+hSp\no8wphYcNiqsRmZrOFd4/ol3Ly1IBd9hwFpImFenKkhiuez7LmAY7jQ6Z+2PEKDa8\nqlcgkzh3Vk1QaLrk7b4svEafmg66e4RTTuiZJ1NXeyZH4zWn69tubttDAAQ/64/c\nUl49WQk6+xWAN0uqqmncU78ZzwKBgQDAKpzFCdUC7AyUkPvb9uM1cq+/dOzS4d88\ncUptqYRtsam9jJjSPFuU9xfzqaIN8k9QrfhsRfxbntHnokmihXOsxkNwO4DpKG6T\n5z6rk/QoRvS0vK0jC5B2ZiWHYMLgzBIVJ+Ze11MYCE10CfBEESBd0e/WfbCZGMTB\npfVOYoGFVQKBgQDae/WmhbcPKv9SGip6N9cK+I952r86h16YKh/eVhtw4ZENF0Sg\nrRkJ8LDaBDSHJQ7Ru2BLz11FvuAtrIHgdjEBhtdBvCoSAZv513LDxbVZ+8EwpgIf\nmFQKtHHk/z8eEDQp0RfVJfSuzWwonAqaBBgcvElzNSbEPEYFzBMhrtlXVwKBgQC8\nA7U4z4LbBgrU/Pl+4JKzA4/SedsQBTC+WXXhz36jOLWDoGERKT7Ng+iqXSkSDibu\nIBi0DtF27vAeetkiqwFfZOgskftxpD50dUcK5op3Md1QTF31sOXaAdzsFI73FJMI\noe4ykuhY1h65ztOGNV9+i93l9TnowKQZd3+H/rcMtQKBgQDBPt87DdCDoQiTf6gt\n28UVwxbu567ML2MEdIGWECn7h5dgtmxG5TIOoFM0Wy1LmNxNROmt8O3cDzrnIeJq\nPc9IT8GynaA4WxQHADKXHSTioB9+7STkOjO5+6vhOU7Iac6yXq+BeE2scTlKNN+J\nBsefByx89KlSPp0hGDYJvQ26QA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "bot-excel@bot-factura.iam.gserviceaccount.com",
+  "private_key_id": "private_key_id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\\n-----END PRIVATE KEY-----\n",
+  "client_email": "client_email",
   "client_id": "112752650005851418779",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-excel%40bot-factura.iam.gserviceaccount.com",
+  "client_x509_cert_url": "client_x509_cert_url",
   "universe_domain": "googleapis.com"
 }
