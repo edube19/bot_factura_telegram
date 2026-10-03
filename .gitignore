@@ -1,3 +1,4 @@
-.env
-bot-factura.json
+.env*
+!.env.example
+bot-factura*.json
 __pycache__/
