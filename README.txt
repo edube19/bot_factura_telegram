@@ -228,14 +228,4 @@ renovar la web app cada 3 meses entrando a la pestana "Web".
   - No encuentra el .env: verifica que no se llame ".env.txt".
   - Los botones dicen "Este vale ya no esta disponible": el bot se reinicio
     entre la foto y la confirmacion. Reenvia la foto.
-
-
-12) SEGURIDAD
--------------
-  - NUNCA subas a GitHub: .env, bot-factura.json ni ningun token o clave.
-    El .gitignore ya los excluye.
-  - Si un token o clave se expuso, revocalo (token: /revoke en @BotFather;
-    clave de Google: borrala en la consola y crea otra).
-  - Cualquier persona con acceso al bot en Telegram puede mandarle fotos;
-    usa un grupo privado o no compartas el nombre del bot.
 =====================================================================
